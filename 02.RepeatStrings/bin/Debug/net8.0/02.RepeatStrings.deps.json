@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02.RepeatStrings/1.0.0": {
+        "dependencies": {
+          "01.ReverseStrings": "1.0.0"
+        },
+        "runtime": {
+          "02.RepeatStrings.dll": {}
+        }
+      },
+      "01.ReverseStrings/1.0.0": {
+        "runtime": {
+          "01.ReverseStrings.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02.RepeatStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01.ReverseStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
