@@ -1,0 +1,15 @@
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\bin\Debug\net8.0\04.TextFilter.exe
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\bin\Debug\net8.0\04.TextFilter.deps.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\bin\Debug\net8.0\04.TextFilter.runtimeconfig.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\bin\Debug\net8.0\04.TextFilter.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\bin\Debug\net8.0\04.TextFilter.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfoInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.AssemblyInfo.cs
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.sourcelink.json
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\refint\04.TextFilter.dll
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.pdb
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\04.TextFilter.genruntimeconfig.cache
+C:\Users\Cvete\OneDrive\Documents\SoftUni\CSharpFundamentals\StringProcessing\Solution\04.TextFilter\obj\Debug\net8.0\ref\04.TextFilter.dll
