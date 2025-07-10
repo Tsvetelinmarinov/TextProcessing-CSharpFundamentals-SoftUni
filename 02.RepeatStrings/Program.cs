@@ -3,6 +3,7 @@
  */
 
 using _01.ReverseStrings;
+using System.Text;
 using System;
 
 namespace _02.RepeatStrings
@@ -15,7 +16,7 @@ namespace _02.RepeatStrings
                 .Split();
 
             string result = StringModifier.ConcatStrings(words);
-            Console.WriteLine(result);
+            Console.WriteLine(result);           
         }
     }
 }
